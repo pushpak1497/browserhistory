@@ -1,0 +1,14 @@
+.list-item {
+  display: flex;
+  margin: 30px;
+}
+.domain {
+  margin-left: 10%;
+  display: flex;
+  margin-right: 20%;
+}
+.del-icon {
+  height: 20px;
+  width: 20px;
+  align-self: flex-end;
+}
